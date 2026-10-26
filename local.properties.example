@@ -1,0 +1,9 @@
+# Copy to local.properties (git-ignored). PUBLIC client values only.
+sdk.dir=/path/to/Android/sdk
+supabase.url=https://YOUR-PROJECT.supabase.co
+supabase.anonKey=YOUR_PUBLIC_ANON_OR_PUBLISHABLE_KEY
+# Release signing (optional)
+# release.storeFile=../farmcare-release.jks
+# release.storePassword=...
+# release.keyAlias=farmcare
+# release.keyPassword=...
